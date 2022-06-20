@@ -1,6 +1,6 @@
 // QUESTIONS
 const strangersQuestions = [
-    "Do you squeeze the toothpaste tube or roll it? Whats the advantage of your method?",
+    "Do you squeeze the toothpaste tube or roll it? What's the advantage of your method?",
     "Do you think I have a sibling? Older or younger?",
     "How many siblings do you have? What's your birth order?",
     "What about me is most strange or unfamiliar?",
